@@ -1,8 +1,8 @@
-# RestApi
+# Nodejs RestApi
 
-Its a simple api project.</br>
--- helps to get started with the big project
+# Its a simple node  api project.</br>
+It helps to get started with the node rest api project
 
-To start: </br>
+# To start: </br>
 npm install </br>
 npm start 
